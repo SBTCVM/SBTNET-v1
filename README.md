@@ -1,5 +1,7 @@
 # SBTNET
 
+![SBTNET Logo](/docs/sbtnet_swirl1_128.png)
+
 SBTNET is a system for packet-switched Balanced Ternary Computer Networking
 
 Part of the SBTCVM Project
